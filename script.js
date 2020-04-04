@@ -1,2 +1,2 @@
-var marks = 30;
+var marksofmanish = 40;
 var branch = 'cse';
